@@ -1,5 +1,9 @@
 # Market Basket Analysis for Retail Business Intelligence
 
+## 📊 [View Complete Visualization Dashboard](VISUALIZATIONS.md)
+
+> **Professional Analytics Visualizations**: Explore 9 comprehensive charts covering product associations, transaction patterns, customer behavior analysis, and strategic merchandising recommendations with detailed insights for retail optimization.
+
 ## Project Overview
 Comprehensive Market Basket Analysis project examining customer purchasing patterns and product associations to drive strategic merchandising and cross-selling decisions. Applied association rule mining techniques to identify product bundles and optimize inventory placement.
 
